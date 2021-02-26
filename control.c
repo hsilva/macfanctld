@@ -57,6 +57,7 @@ sensor_desc[] =
 	{"Th2H", "Right Fin Stack Proximity Temp"},
 	{"TM0P", "Temperature FBDIMM Riser A incoming air Temp"},
 	{"Tm0P", "Battery Charger Proximity Temp"},
+	{"TPCD", "PCH Die"},
 	{"Ts0P", "Left Palm Rest Temp"},
 	{"Ts1P", "Right Palm Rest Temp"}
 };
